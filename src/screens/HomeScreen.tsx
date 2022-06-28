@@ -14,7 +14,7 @@ export const HomeScreen = () => {
       <Text style={{ color: COLORS.lightGreen, fontSize: SIZES.h1 }}>
         HomeScreen!!
       </Text>
-      <Icon name="star-outline" size={30} color={COLORS.red} />
+      <Icon name="star-outline" size={30} color={COLORS.primary} />
     </View>
   );
 };
